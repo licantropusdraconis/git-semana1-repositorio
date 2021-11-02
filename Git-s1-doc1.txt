@@ -1,1 +1,2 @@
 Este es el texto del documento 1
+Ahora lo he modificado con este nuevo renglón
