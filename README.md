@@ -1,2 +1,2 @@
 # git-semana1-repositorio
-Ejercicio semana 1
+Ejercicio github
